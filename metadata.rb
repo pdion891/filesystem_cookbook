@@ -12,7 +12,7 @@ issues_url       "https://github.com/atrull/filesystem_cookbook/issues"
   supports os
 end
 
-depends 'lvm', '~> 1.1'
+depends 'lvm'
 
 attribute 'filesystems',
   :description => "Filesystems to be created and/or mounted",
