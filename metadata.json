@@ -15,7 +15,7 @@
     "amazon": ">= 0.0.0"
   },
   "dependencies": {
-    "lvm": "~> 1.1"
+    "lvm"
   },
   "recommendations": {
 
